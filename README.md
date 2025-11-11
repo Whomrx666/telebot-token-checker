@@ -24,15 +24,15 @@ $ python3 telebot-token-checker.py
 
 
 ## Feature
-| All feature |  |
+| All feature | ⚡ |
 |--------|--------|
-| **Check Valid token or Not** |  |
-| **Check BOT id** |  |
-| **Check Username bot** |  |
-| **Check Name bot** |  |
-| **Check Bot link** |  |
-| **Check Response** |  |
-| **Check Chat id** |  |
+| **Check Valid token or Not** | ✅ |
+| **Check BOT id** | ✅ |
+| **Check Username bot** | ✅ |
+| **Check Name bot** | ✅ |
+| **Check Bot link** | ✅ |
+| **Check Response** | ✅ |
+| **Check Chat id** | ✅ |
 ---------
 
 ## Note!
